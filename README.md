@@ -26,11 +26,6 @@ Everything typed on camera, in order.
 /plan A tip splitter: a bill amount, a tip of 15, 18, 20 or 25 percent, a number of people, and what each person pays.
 ```
 
-**Plan annotation** (clicked on the plan line for the bill field)
-```text
-Bill field should update the total on every keystroke
-```
-
 **Agent-driven simulator verification**
 ```text
 Run it on the iPhone 17 Pro simulator. Enter 84, choose 20%, set 3 people, and screenshot the total.
@@ -70,7 +65,7 @@ List the exact names of every mcp__xcode-tools__ tool you have.
 Start a device interaction session on an iOS simulator and take a screenshot.
 ```
 
-**Reviewing older work in the same conversation**
+**Reviewing older work**
 ```text
 Let's run a quick review on my Parallax header demo from a previous video
 ```
