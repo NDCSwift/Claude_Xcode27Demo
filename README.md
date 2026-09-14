@@ -111,7 +111,7 @@ AgentLoopDemo is a small SwiftUI tip-splitter used to demonstrate Xcode 27's bui
 
 ## 📺 Watch on YouTube
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/eLod6lBPMWk)
 
 <!-- No existing README/video link was found for this repo — swap in the real video URL once it's live. -->
 
@@ -153,4 +153,4 @@ Update the bundle identifier if you plan to add the App Group entitlement from t
 - Swift 6.4
 - A paid Claude account (Pro or Max), or an Enterprise API key, for Claude Agent
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/eLod6lBPMWk)
