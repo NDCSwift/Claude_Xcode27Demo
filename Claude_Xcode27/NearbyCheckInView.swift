@@ -34,8 +34,6 @@ struct NearbyCheckInView: View {
                         .accessibilityIdentifier("checkInStatusText")
                 }
 
-                Spacer()
-
                 Button(action: checkInTapped) {
                     if isCheckingIn {
                         ProgressView()

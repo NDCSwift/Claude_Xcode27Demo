@@ -1,0 +1,152 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld%%" : {
+
+    },
+    "Bill" : {
+
+    },
+    "Bill Amount" : {
+
+    },
+    "Check In Here" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Check In Here"
+          }
+        }
+      }
+    },
+    "Check-in saved." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Check-in saved."
+          }
+        }
+      }
+    },
+    "Last Check-In" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Last Check-In"
+          }
+        }
+      }
+    },
+    "Latitude" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Latitude"
+          }
+        }
+      }
+    },
+    "Location access was denied. Enable it in Settings to check in here." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Location access was denied. Enable it in Settings to check in here."
+          }
+        }
+      }
+    },
+    "Longitude" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Longitude"
+          }
+        }
+      }
+    },
+    "Nearby Check-In" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Nearby Check-In"
+          }
+        }
+      }
+    },
+    "No check-in yet." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "No check-in yet."
+          }
+        }
+      }
+    },
+    "No Tip" : {
+
+    },
+    "Number of People: %lld" : {
+
+    },
+    "People" : {
+
+    },
+    "Per Person" : {
+
+    },
+    "Results" : {
+
+    },
+    "Saved At" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Saved At"
+          }
+        }
+      }
+    },
+    "Tip Amount" : {
+
+    },
+    "Tip Percentage" : {
+
+    },
+    "Tip Splitter" : {
+
+    },
+    "Total" : {
+
+    },
+    "We couldn't get your location. Please try again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "We couldn't get your location. Please try again."
+          }
+        }
+      }
+    },
+    "We couldn't save your check-in." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "We couldn't save your check-in."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
