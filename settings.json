@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__xcode-tools__DeviceInteractionStartSession",
+      "mcp__xcode-tools__DeviceInteractionStartWorkspaceSession",
+      "mcp__xcode-tools__DeviceInteractionInstallAndRun",
+      "mcp__xcode-tools__DeviceInteractionSynthesize",
+      "mcp__xcode-tools__DeviceInteractionEndSession"
+    ]
+  }
+}
